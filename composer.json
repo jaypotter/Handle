@@ -17,5 +17,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
